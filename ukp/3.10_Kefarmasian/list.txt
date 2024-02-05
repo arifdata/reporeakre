@@ -1,0 +1,16 @@
+3.10 kefarmasian
+[X] sk formula 
+[V] ⁠sk pelayanan kefarmasian
+[X] ⁠sk penunjang pelayanan klinis
+[V] ⁠sop pengelolaan sediaan farmasi dan bmhp
+[X] ⁠sop farmasi klinis terkendali
+[V] ⁠sop rekonsiliasi obat terkendali
+[X] ⁠sop pengkajian dan pelayanan resep
+[X] ⁠sop kajian resep dan pemberian obat
+[X] ⁠sop pemberian obat terkendali
+[V] ⁠sop pemberian informasi penggunaan obat
+[X] ⁠sop penyimpanan obat emergensi
+[X] ⁠sop monitoring obat emergensi
+[X] ⁠sop penyediaan obat emergensi
+[X] ⁠sop monitoring penyediaan obat emergensi
+[V] ⁠kak kefarmasian
