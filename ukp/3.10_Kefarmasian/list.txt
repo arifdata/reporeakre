@@ -9,7 +9,7 @@
 [X] ⁠sop kajian resep dan pemberian obat
 [X] ⁠sop pemberian obat terkendali
 [V] ⁠sop pemberian informasi penggunaan obat
-[X] ⁠sop penyimpanan obat emergensi
+[V] ⁠sop penyimpanan obat emergensi
 [X] ⁠sop monitoring obat emergensi
 [X] ⁠sop penyediaan obat emergensi
 [X] ⁠sop monitoring penyediaan obat emergensi
