@@ -5,7 +5,7 @@
 [V] ⁠sop pengelolaan sediaan farmasi dan bmhp
 [X] ⁠sop farmasi klinis terkendali
 [V] ⁠sop rekonsiliasi obat terkendali
-[X] ⁠sop pengkajian dan pelayanan resep
+[V] ⁠sop pengkajian dan pelayanan resep
 [X] ⁠sop kajian resep dan pemberian obat
 [X] ⁠sop pemberian obat terkendali
 [V] ⁠sop pemberian informasi penggunaan obat
