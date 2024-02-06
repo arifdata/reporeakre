@@ -12,5 +12,5 @@
 [V] ⁠sop penyimpanan obat emergensi
 [V] ⁠sop monitoring obat emergensi
 [V] ⁠sop penyediaan obat emergensi
-[X] ⁠sop monitoring penyediaan obat emergensi
+[V] ⁠sop monitoring penyediaan obat emergensi
 [V] ⁠kak kefarmasian
