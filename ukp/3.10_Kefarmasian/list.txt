@@ -6,7 +6,7 @@
 [X] ⁠sop farmasi klinis terkendali
 [V] ⁠sop rekonsiliasi obat terkendali
 [V] ⁠sop pengkajian dan pelayanan resep
-[X] ⁠sop kajian resep dan pemberian obat
+[V] ⁠sop kajian resep dan pemberian obat
 [X] ⁠sop pemberian obat terkendali
 [V] ⁠sop pemberian informasi penggunaan obat
 [V] ⁠sop penyimpanan obat emergensi
