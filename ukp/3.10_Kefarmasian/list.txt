@@ -1,7 +1,7 @@
 3.10 kefarmasian
 [X] sk formula 
 [V] ⁠sk pelayanan kefarmasian
-[X] ⁠sk penunjang pelayanan klinis
+[V] ⁠sk penunjang pelayanan klinis
 [V] ⁠sop pengelolaan sediaan farmasi dan bmhp
 [X] ⁠sop farmasi klinis terkendali
 [V] ⁠sop rekonsiliasi obat terkendali
