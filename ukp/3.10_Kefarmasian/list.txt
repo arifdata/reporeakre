@@ -1,5 +1,5 @@
 3.10 kefarmasian
-[X] sk formula 
+[V] sk formula 
 [V] ⁠sk pelayanan kefarmasian
 [V] ⁠sk penunjang pelayanan klinis
 [V] ⁠sop pengelolaan sediaan farmasi dan bmhp
