@@ -7,7 +7,7 @@
 [V] ⁠sop rekonsiliasi obat terkendali
 [V] ⁠sop pengkajian dan pelayanan resep
 [V] ⁠sop kajian resep dan pemberian obat
-[X] ⁠sop pemberian obat terkendali
+[V] ⁠sop pemberian obat terkendali (sama dgn yg bawah?)
 [V] ⁠sop pemberian informasi penggunaan obat
 [V] ⁠sop penyimpanan obat emergensi
 [V] ⁠sop monitoring obat emergensi
