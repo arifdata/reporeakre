@@ -3,7 +3,7 @@
 [V] ⁠sk pelayanan kefarmasian
 [V] ⁠sk penunjang pelayanan klinis
 [V] ⁠sop pengelolaan sediaan farmasi dan bmhp
-[X] ⁠sop farmasi klinis terkendali
+[V] ⁠sop farmasi klinis terkendali
 [V] ⁠sop rekonsiliasi obat terkendali
 [V] ⁠sop pengkajian dan pelayanan resep
 [V] ⁠sop kajian resep dan pemberian obat
